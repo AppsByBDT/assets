@@ -1,4 +1,4 @@
-# assets
+# Mobile Apps
 Flutterflow Projects
 
 Name: Penn State Directory
